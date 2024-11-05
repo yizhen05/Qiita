@@ -1,0 +1,8 @@
+# access_token.txt
+/secret
+.env
+dist
+node_modules
+tmp
+.github/workflows/publish.yml
+.json
