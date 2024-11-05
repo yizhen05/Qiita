@@ -3,7 +3,7 @@ title: bashからzshに鞍替え
 tags:
   - Zsh
 private: false
-updated_at: '2024-10-29T11:42:48+09:00'
+updated_at: '2024-11-05T16:05:19+09:00'
 id: 16c0e03b601d7f062702
 organization_url_name: null
 slide: false
